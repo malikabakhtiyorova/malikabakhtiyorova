@@ -1,5 +1,5 @@
-![Welcome to my GitHub](rasm)
-<!-- https://github.com/quenwhocodes/queenwhocodes/blob/trunk/welcome.gif -->
+![Welcome to my GitHub](<https://github.com/quenwhocodes/queenwhocodes/blob/trunk/welcome.gif)
+
 
 
 A developer who loves:👩🏻‍💻🏓🏸📚🌹🌦🍏🍓🍕
