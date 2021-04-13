@@ -1,10 +1,11 @@
-![Welcome to my GitHub]('./welcome.gif')
+![Welcome to my GitHub](rasm)
 <!-- https://github.com/quenwhocodes/queenwhocodes/blob/trunk/welcome.gif -->
 
 
 A developer who loves:👩🏻‍💻🏓🏸📚🌹🌦🍏🍓🍕
 
 Portfolio: ✨ http://malikabakhtiyorova.netlify.app/           ✨
+
 LinkedIn:  ✨ https://www.linkedin.com/in/malikabakhtiyorova/  ✨
 
 <!--
