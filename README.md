@@ -1,4 +1,4 @@
-![Welcome to my GitHub](<https://github.com/quenwhocodes/queenwhocodes/blob/trunk/welcome.gif)
+![Welcome to my GitHub](https://github.com/quenwhocodes/queenwhocodes/blob/trunk/welcome.gif)
 
 
 
