@@ -4,9 +4,9 @@
 
 A developer who loves:👩🏻‍💻🏓🏸📚🌹🌦🍏🍓🍕
 
-Portfolio: ✨ http://malikabakhtiyorova.netlify.app/           ✨
+✨ (Portfolio)[http://malikabakhtiyorova.netlify.app/ ]✨
 
-LinkedIn:  ✨ https://www.linkedin.com/in/malikabakhtiyorova/  ✨
+✨ (LinkedIn)[https://www.linkedin.com/in/malikabakhtiyorova/] ✨
 
 <!--
 **queenwhocodes/queenwhocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
