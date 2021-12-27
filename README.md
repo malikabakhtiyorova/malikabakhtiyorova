@@ -2,7 +2,7 @@
 
 
 
-A developer who loves:👩🏻‍💻🏓🏸📚🌹🌦
+A developer who loves:👩🏻‍💻🏓📚🌦
 
 ✨ [Portfolio](http://malikabakhtiyorova.netlify.app/)✨
 
