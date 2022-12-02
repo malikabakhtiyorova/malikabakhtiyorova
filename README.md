@@ -4,7 +4,7 @@
 
 A developer who loves:👩🏻‍💻🏓📚🌦
 
-✨ [Portfolio](http://malikabakhtiyorova.netlify.app/)✨
+<!-- ✨ [Portfolio](http://malikabakhtiyorova.netlify.app/)✨ -->
 
 ✨ [LinkedIn](https://www.linkedin.com/in/malikabakhtiyorova/) ✨
 
